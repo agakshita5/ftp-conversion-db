@@ -27,14 +27,16 @@ Tracks:
 - Conversion rate by traffic source (Paid Ads, Referral, Organic)
 - Total upgrades by country
 - Device usage by country
-- Upgrade paths from Free → Paid plans (Sankey)
-- Which features triggered conversion and how much
+- Upgrade paths from Free → Paid plans (Sankey chart)
+- Features that triggered upgrades
 
 Key Insights:
 - In 2024, paid ads worked best in Germany — especially on mobile (63% of 133 users)
 - In 2025, most upgrades came from the US, mainly through organic traffic. Again, 63% of US mobile users upgraded (out of 98)
 - Upgrade paths shifted — in 2024, most users moved from Free to Enterprise, while in 2025, it was mostly Free to Pro
-- 52% users tried pro features before converting
-
+- Over 50% of users interacted with Pro features before converting
+  
 Below is Dashboard 2
 <img width="1470" alt="Screenshot 2025-06-14 at 00 13 38" src="https://github.com/user-attachments/assets/f5474a17-1871-4fd2-a0b5-a1c6cddb5add" />
+
+##################📌 Note: All data is synthetic — this project was created purely for learning and exploration.
