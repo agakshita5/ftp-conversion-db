@@ -28,3 +28,7 @@ Key Insights:
 - In 2024, paid ads worked best in Germany — especially on mobile (63% of 133 users)
 - In 2025, most upgrades came from the US, mainly through organic traffic. Again, 63% of US mobile users upgraded (out of 98)
 - Upgrade paths shifted — in 2024, most users moved from Free to Enterprise, while in 2025, it was mostly Free to Pro
+
+Below is Dashboard 2
+<img width="1463" alt="Screenshot 2025-06-13 at 15 08 31" src="https://github.com/user-attachments/assets/9e878330-3ed4-4eaf-b793-0e3f8d916802" />
+
