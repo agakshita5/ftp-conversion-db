@@ -32,3 +32,4 @@ Key Insights:
 Below is Dashboard 2
 <img width="1463" alt="Screenshot 2025-06-13 at 15 08 31" src="https://github.com/user-attachments/assets/9e878330-3ed4-4eaf-b793-0e3f8d916802" />
 
+**NOTE: Synthetic dataset used. Two dashboards still in progress — links will be added soon.**
