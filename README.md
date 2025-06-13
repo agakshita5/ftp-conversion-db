@@ -1,35 +1,40 @@
 # 📊 Free → Paid Conversion Funnel 
 
-Made up some user data for a freemium app and built dashboards to see how users move from free plans to paid (and where they drop off).
+I created a synthetic dataset simulating user behavior in a freemium app (like Notion, Grammarly, or Canva) — focusing on how users move from free plans to paid ones, and where they drop off. Then I built two Tableau dashboards to explore the full conversion journey.
+
+---
 
 ### ⌗ Dashboard 1: User Conversion Overview
 Tracks:
 - Total users by signup year
-- % conversion rate and average upgrade time
-- Final plan distribution
-- Upgrade patterns and conversion timing
+- % conversion rate and average time to upgrade
+- Final plan breakdown (Free, Pro, Teams, Enterprise)
+- Monthly conversion patterns
+- Number of upgrades per user
 
  Key Insights:
 - 49% of users upgraded within ~20 days of signup
 - Free plan is the most popular upgrade choice
-- Most conversions occurred in 2024
+- Conversions peaked in 2024, especially around April and October
+- Most users upgraded only once, but a chunk upgraded multiple times
 
 Below is Dashboard 1
-<img width="1459" alt="Screenshot 2025-06-12 at 20 52 51" src="https://github.com/user-attachments/assets/0fbf11b3-a689-44d1-9ec2-ddad8604138e" />
+<img width="1470" alt="Screenshot 2025-06-14 at 00 13 23" src="https://github.com/user-attachments/assets/8ed20e9b-1879-4822-a8e8-6f52926cb884" />
 
-### ⌗ Dashboard 2: Demographics & Source
+
+### ⌗ Dashboard 2: Conversion Drivers by Source, Country & Features
 Tracks:
 - Conversion rate by traffic source (Paid Ads, Referral, Organic)
 - Total upgrades by country
 - Device usage by country
 - Upgrade paths from Free → Paid plans (Sankey)
+- Which features triggered conversion and how much
 
 Key Insights:
 - In 2024, paid ads worked best in Germany — especially on mobile (63% of 133 users)
 - In 2025, most upgrades came from the US, mainly through organic traffic. Again, 63% of US mobile users upgraded (out of 98)
 - Upgrade paths shifted — in 2024, most users moved from Free to Enterprise, while in 2025, it was mostly Free to Pro
+- 52% users tried pro features before converting
 
 Below is Dashboard 2
-<img width="1463" alt="Screenshot 2025-06-13 at 15 08 31" src="https://github.com/user-attachments/assets/9e878330-3ed4-4eaf-b793-0e3f8d916802" />
-
-**NOTE: Synthetic dataset used. Two dashboards still in progress — links will be added soon.**
+<img width="1470" alt="Screenshot 2025-06-14 at 00 13 38" src="https://github.com/user-attachments/assets/f5474a17-1871-4fd2-a0b5-a1c6cddb5add" />
