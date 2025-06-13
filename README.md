@@ -21,8 +21,7 @@ Tracks:
 - Most users upgraded only once, but a chunk upgraded multiple times
 
 Dashboard 1 Snapshot:
-<img width="1470" alt="Screenshot 2025-06-14 at 00 13 23" src="https://github.com/user-attachments/assets/8ed20e9b-1879-4822-a8e8-6f52926cb884" />
-
+<img width="1208" alt="Screenshot 2025-06-14 at 01 40 13" src="https://github.com/user-attachments/assets/9eb05023-7219-4a6d-848f-fb0f4b6af6c1" />
 
 ### ⌗ Dashboard 2: Conversion Drivers by Source, Country & Features
 Tracks:
