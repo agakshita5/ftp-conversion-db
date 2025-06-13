@@ -3,9 +3,8 @@
 I created a synthetic dataset simulating user behavior in a freemium app (like Notion, Grammarly, or Canva) — focusing on how users move from free plans to paid ones, and where they drop off. Then I built two Tableau dashboards to explore the full conversion journey.
 
 Link: https://public.tableau.com/views/FreetoPaidConversionFunnelUserBehaviorDashboard/UserConversionOverview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-📌 Best viewed on dektop or laptop
 
----
+📌 Best viewed on dektop or laptop
 
 ### ⌗ Dashboard 1: User Conversion Overview
 Tracks:
