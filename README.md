@@ -18,7 +18,7 @@ Tracks:
 - Conversions peaked in 2024, especially around April and October
 - Most users upgraded only once, but a chunk upgraded multiple times
 
-Below is Dashboard 1
+Dashboard 1 Snapshot:
 <img width="1470" alt="Screenshot 2025-06-14 at 00 13 23" src="https://github.com/user-attachments/assets/8ed20e9b-1879-4822-a8e8-6f52926cb884" />
 
 
@@ -36,7 +36,7 @@ Key Insights:
 - Upgrade paths shifted — in 2024, most users moved from Free to Enterprise, while in 2025, it was mostly Free to Pro
 - Over 50% of users interacted with Pro features before converting
   
-Below is Dashboard 2
+Dashboard 2 Snapshot:
 <img width="1470" alt="Screenshot 2025-06-14 at 00 13 38" src="https://github.com/user-attachments/assets/f5474a17-1871-4fd2-a0b5-a1c6cddb5add" />
 
 📌 Note: All data is synthetic — this project was created purely for learning and exploration.
