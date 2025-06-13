@@ -39,4 +39,4 @@ Key Insights:
 Below is Dashboard 2
 <img width="1470" alt="Screenshot 2025-06-14 at 00 13 38" src="https://github.com/user-attachments/assets/f5474a17-1871-4fd2-a0b5-a1c6cddb5add" />
 
-##################📌 Note: All data is synthetic — this project was created purely for learning and exploration.
+📌 Note: All data is synthetic — this project was created purely for learning and exploration.
